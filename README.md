@@ -8,10 +8,10 @@ An example dataset folder has the following structure:
 ```
 datasets
 ├── IP
-│   ├── indian_pines_corrected.mat
-│   ├── indian_pines_gt.mat
+│   ├── Indian_pines_corrected.mat
+│   ├── Indian_pines_gt.mat
 └── Salinas
-│   ├── Salinas_corrected.mat
+│   ├── salinas_corrected.mat
 │   ├── salinas_gt.mat
 
 ```
